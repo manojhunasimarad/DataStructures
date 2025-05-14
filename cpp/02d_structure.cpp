@@ -11,3 +11,6 @@ int main()
   std::cout<<sizeof(r1)<< std::endl;
 //   printf("%lu",sizeof(r1));
 }
+
+
+// This concept is called padding of memory
